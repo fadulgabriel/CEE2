@@ -1,2 +1,3 @@
 # CEE2
-Essas são as minhas aulas da disciplinas
+Aulas da disciplina: CE2 python
+prof: José Augusto Fiorucci
